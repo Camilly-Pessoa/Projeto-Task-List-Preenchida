@@ -1,0 +1,56 @@
+body{
+    background-color: #ede9f9;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat';
+  }
+  
+  .principal {
+    background-color: #c3b8e2;
+    width: 600px;
+    margin: 12px auto;
+    padding: 12px;
+    border-radius: 12px;
+  }
+  
+  h1 {
+    margin: 0;
+    text-transform: uppercase;
+  }
+  
+  .card {
+    background-color: #ede9f9;
+    padding: 8px;
+    margin: 15px;
+    border-radius: 12px;
+    text-align: right;
+  }
+  
+  p {
+    text-align: center
+  }
+  
+  button{
+    background-color: #8A71C9;
+    border: none;
+    color: white;
+    padding: 6px 16px;  
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .botaoExcluir {
+    background-color: #c3b8e2;
+  }
+  
+  .formulario {
+    margin-top: 12px;
+  }
+  
+  input {
+    width: 70%;
+    border: 1px solid #8A71C9;
+    border-radius: 8px;
+    padding: 10px 6px;
+  }
+  
